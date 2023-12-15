@@ -6,14 +6,29 @@
  */
 
 #include <cstdlib>
+#include <string>
+
+#include "C02Fundamentals/C02Fundamentals.h"
 
 using namespace std;
 
 /*
  * 
  */
-int main(int argc, char** argv) {
 
+/**
+ * Func that does nothing.
+ * @param a simple int
+ * @param b simple string
+ */
+void myFunc(int a, std::string b) {
+    
+}
+
+int main(int argc, char** argv) {
+    
+    testPassArrAsFunc();
+    
     return 0;
 }
 
