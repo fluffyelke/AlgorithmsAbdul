@@ -1,5 +1,0 @@
-build/Debug/CLang-Linux/C02Fundamentals/Functions/ParamtersPassingMethods/ParametersSwappingMethods.o: \
-  C02Fundamentals/Functions/ParamtersPassingMethods/ParametersSwappingMethods.cpp \
-  C02Fundamentals/Functions/ParamtersPassingMethods/ParametersSwappingMethods.h
-
-C02Fundamentals/Functions/ParamtersPassingMethods/ParametersSwappingMethods.h:
