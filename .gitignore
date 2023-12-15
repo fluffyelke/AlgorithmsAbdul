@@ -1,0 +1,9 @@
+
+.dep.inc
+*.o
+*.d
+*.exe
+*.xml
+*.mk
+*.bash
+*.properties
